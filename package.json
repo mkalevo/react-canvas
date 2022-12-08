@@ -1,0 +1,36 @@
+{
+  "name": "react-canvas",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@lume/autolayout": "0.8.2",
+    "interpolate-all": "1.0.1",
+    "konva": "8.1.3",
+    "popmotion": "9.4.0",
+    "react": "17.0.2",
+    "react-canvas": "1.3.0",
+    "react-dom": "17.0.2",
+    "react-konva": "17.0.2-5",
+    "react-scripts": "4.0.3",
+    "revas": "1.0.3"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.20",
+    "@types/react-dom": "17.0.9",
+    "typescript": "4.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
